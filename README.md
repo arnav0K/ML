@@ -11,4 +11,4 @@
 2. **EDA and Basic Model Training.ipynb**: Exploratory data analysis (EDA) and basic model training using InceptionResNetV2.
 3. **Make Predictions.ipynb**: Functions for making predictions.
 4. **yolo data preparation.ipynb**: Data preparation for the YOLO model.
-5. ** yolo predictions.ipynb**: Making predictions using the YOLO model.
+5. **yolo predictions.ipynb**: Making predictions using the YOLO model.
